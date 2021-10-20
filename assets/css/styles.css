@@ -1,0 +1,15 @@
+html{
+	background: white;
+}
+
+body{
+	font-family: : Helvetica, Arial;
+}
+
+.clearfix{
+	float: none;
+	clear: bot;
+	text-decoration: none;
+	list-style: none;
+}
+
